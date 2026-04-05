@@ -3,3 +3,5 @@ git commit - ulpží změny
 git push - nahraje na GitHub
 git pull - stáhne změny
 git status - ukáže stav projektu
+git branch - vypíše seznam větví nebo vytvoří novou větev
+git checkout - přepne na jinou větev
