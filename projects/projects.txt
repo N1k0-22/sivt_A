@@ -1,0 +1,4 @@
+Moje projekty:
+
+- Kalkulačka v Pythonu – jednoduchý program, který sčítá, odčítá, násobí a dělí čísla.
+- První webová stránka – HTML + CSS projekt.

@@ -1,0 +1,5 @@
+git add - přidá změny
+git commit - ulpží změny
+git push - nahraje na GitHub
+git pull - stáhne změny
+git status - ukáže stav projektu
